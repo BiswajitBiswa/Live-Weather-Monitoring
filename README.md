@@ -23,5 +23,6 @@ __params = {
 
 - Install Clone the Repository
 - Install requirements.txt by typing "pip install -r requirements.txt" into Command Prompt in working Directory.
+- Add your api key in main.py
 - Edit the values of Cities, Units and Update(0/1) colulmns in the Values.xlsx file as required.
 - Run the file main.py.
